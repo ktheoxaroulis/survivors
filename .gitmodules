@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:CHardaker/survivorApp.git
+[submodule "server"]
+	path = server
+	url = git@github.com:janklatte/survivors_backend.git
+[submodule "visualization"]
+	path = visualization
+	url = git@github.com:ktheoxaroulis/survivors_visualization.git
