@@ -13,6 +13,10 @@ Visualization of the already collected data can be found here:
 
 The mobile app can not yet be downloaded and thus has to be built locally (follow instructions under /app) but will soon be available in the App Store and Google Play as well.
 
+## Design
+The design mockups for the App development can be found here:
+https://www.figma.com/file/HOxOiuPXM3HEgTxEMvG822/Survivor-App-UI-v1.1
+
 ## Setup
 Each part of the platform is hosted in its own repository and can be built independently (follow instructions in sub-repository). To check out the latest release run:
 ```bash
