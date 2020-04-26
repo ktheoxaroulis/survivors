@@ -6,4 +6,4 @@
 	url = git@github.com:janklatte/survivors_backend.git
 [submodule "visualization"]
 	path = visualization
-	url = git@github.com:ktheoxaroulis/survivors_dashboard.git
+	url = https://github.com/ktheoxaroulis/survivors_dashboard
