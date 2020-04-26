@@ -7,3 +7,6 @@
 [submodule "visualization"]
 	path = visualization
 	url = https://github.com/ktheoxaroulis/survivors_dashboard
+[submodule "survivors_dashboard"]
+	path = survivors_dashboard
+	url = https://github.com/ktheoxaroulis/survivors_dashboard
