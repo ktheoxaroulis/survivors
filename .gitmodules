@@ -4,9 +4,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:janklatte/survivors_backend.git
-[submodule "visualization"]
-	path = visualization
-	url = https://github.com/ktheoxaroulis/survivors_dashboard
-[submodule "survivors_dashboard"]
+[submodule "dashboard"]
 	path = survivors_dashboard
 	url = https://github.com/ktheoxaroulis/survivors_dashboard
